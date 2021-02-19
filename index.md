@@ -1,37 +1,53 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CCandle/githubpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以利用 [editor on GitHub](https://github.com/CCandle/githubpage/edit/gh-pages/index.md) 来维护和预览你网站上的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+每当你重新提交， [Jekyll](https://jekyllrb.com/) 就会根据你的index.md的内容重新生成你的网站。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量化而易用的写作语言，它包括了如下语法
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 一级标题
+## 二级标题
+### 三级标题
 
-- Bulleted
-- List
+- 无序列表1
+- 无序列表2
 
-1. Numbered
-2. List
+1. 有序列表1
+2. 有序列表2
 
-**Bold** and _Italic_ and `Code` text
+**粗体**  _斜体_  `代码` 
 
-[Link](url) and ![Image](src)
+[链接显示文本](实际链接)
+![图片描述文本](图片链接)
 ```
+以上代码显示效果：
+***
+# 一级标题
+## 二级标题
+### 三级标题
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 无序列表1
+- 无序列表2
+
+1. 有序列表1
+2. 有序列表2
+
+**粗体**  _斜体_  `代码` 
+
+[链接显示文本](实际链接)
+![图片描述文本](图片链接)
+***
+更多细节请见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CCandle/githubpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+你的页面将基于你在 [repository settings](https://github.com/CCandle/githubpage/settings)中选择的主题生成. 页面主题设置在`_config.yml`中
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如有其他问题请见 [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) ，我们将尽力帮您解答
