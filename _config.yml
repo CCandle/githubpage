@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
-root: /githubpage/
-title: githubpage 示例网站
+theme: jekyll-theme-cayman # 主题配置
+title: githubpage 示例网站 # 网站标题

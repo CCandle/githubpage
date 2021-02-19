@@ -5,4 +5,4 @@
 + 本网站基于GitHub Pages搭建
 + 采用github-pages默认的jekyll
 + 主题为cayman
-+ 支持多网页展示，主页跳转
++ 支持多网页展示，通过主页链接跳转
