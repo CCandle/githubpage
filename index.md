@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎使用GitHub Pages
 
 你可以利用 [editor on GitHub](https://github.com/CCandle/githubpage/edit/gh-pages/index.md) 来维护和预览你网站上的内容。
 
@@ -44,10 +44,10 @@ Markdown是一种轻量化而易用的写作语言，它包括了如下语法
 ***
 更多细节请见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 主题
 
 你的页面将基于你在 [repository settings](https://github.com/CCandle/githubpage/settings)中选择的主题生成. 页面主题设置在`_config.yml`中
 
-### Support or Contact
+### 更多支持
 
 如有其他问题请见 [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) ，我们将尽力帮您解答
